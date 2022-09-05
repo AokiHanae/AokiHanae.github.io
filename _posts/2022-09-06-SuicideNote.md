@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 遗书
-date: 2022-09-06
+date: 2022-09-05
 Author: 雀瞬
 categories: 
 tags: [fictitious, stories]
