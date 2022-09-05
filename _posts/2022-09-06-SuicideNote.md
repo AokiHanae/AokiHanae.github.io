@@ -4,9 +4,9 @@ title: 遗书
 date: 2022-09-06
 Author: 雀瞬
 categories: 
-tags: [fictitious,stories]
+tags: [fictitious, stories]
 comments: true
---- 
+---
 
 我的睡衣拯救了我很多次。
 
