@@ -4,7 +4,7 @@ title: 遗书
 date: 2022-09-06
 Author: 雀瞬
 categories: 
-tags: [虚构故事]
+tags: [虚构故事,小说]
 comments: false
 --- 
 我的睡衣拯救了我很多次。
