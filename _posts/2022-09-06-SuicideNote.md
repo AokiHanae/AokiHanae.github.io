@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 遗书
-date: 2022-09-06
-Author: 雀瞬
+title: LOFFER文档
+date: 2019-06-02
+Author: 来自中世界
 categories: 
-tags: [虚构故事,小说]
+tags: [sample, document]
 comments: true
---- 
+---
 
 我的睡衣拯救了我很多次。
 
